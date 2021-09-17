@@ -1,2 +1,2 @@
 # Naive-Bayes-Classifier
-This Project is an implementation of a Naive Bayes Classifier with use of Laplace Smoothing technique.
+This project is an implementation of a Naive Bayes Classifier w/o applying Laplace Smoothing technique.
